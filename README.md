@@ -67,3 +67,8 @@ Users can make playlists. So:
 - We went with JSON for things like preferences because it’s easier to handle messy data like that.
 - And yeah, the goal was to keep things smart but simple so it’s easy to plug into the Tkinter GUI and do cool stuff like recommendations and playlist management.
 
+## Entity-Relationship Diagram (ERD)
+
+Here's the ERD showing how all the tables in the database are connected:
+
+![ERD](./erd.png)
