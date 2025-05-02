@@ -71,4 +71,4 @@ Users can make playlists. So:
 
 Here's the ERD showing how all the tables in the database are connected:
 
-![ERD](./erd.png)
+![ERD](./images/erd.png)
