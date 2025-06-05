@@ -6,7 +6,6 @@ This is a simple class management system built with Python's `tkinter` for the G
 
 - Toggle between **Student** and **Teacher** views
 - Insert, update, delete, and undo-delete records
-- Auto-refresh Treeview display
 - Uses backup tables to enable undo functionality
 
 ## File Overview
