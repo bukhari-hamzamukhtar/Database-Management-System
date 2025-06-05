@@ -21,9 +21,6 @@ This is a simple class management system built with Python's `tkinter` for the G
 1. **Clone the repo**
 2. Set up your PostgreSQL database using `tables.sql`
 3. Edit `database.ini` with your DB credentials
-4. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
 
 ## To Run Application
    ```bash
